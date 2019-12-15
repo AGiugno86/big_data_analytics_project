@@ -1,4 +1,4 @@
-# big-data-analytics-project
+# big_data_analytics_project
 This is the final project for the course on Big Data Analytics (Nov.-Dec. 2019). I analysed a dataset of AirBnb listings in NYC starting from April 2011. 
 
 In particular:
